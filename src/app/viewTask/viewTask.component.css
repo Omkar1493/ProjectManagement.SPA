@@ -1,0 +1,52 @@
+.container {
+    max-width: 70%;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    background-color: black
+}
+
+.alignment {
+    display: flex;
+}
+
+.margin {
+    margin-left: 10px;
+}
+
+input {
+    width: 20%;
+}
+
+.space {
+    margin-left: 0%;
+}
+
+.column {
+    width: 14.3%;
+}
+
+tr {
+    margin-bottom: 15px;
+}
+
+table {
+    width:100%;
+}
+
+.modal {
+    display: block;
+    /* max-height: auto; */
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top:10%;
+    margin-bottom: 10%;
+    width: 50%;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+    border: 1px solid cornflowerblue;
+    height: auto;
+    overflow-y: auto;
+  }
